@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Update
+Comment=Mise à jour complète du système. By Darksword
+Exec=gnome-terminal -- sudo <chemin_vers_sh>/update.sh
+Icon=<chemin_vers_icone>/update.png
+Terminal=true
+Type=Application
+Categories=Utility;
